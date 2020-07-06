@@ -32,7 +32,7 @@ https://github.com/rasika-punde/100DaysOfSwiftUI/commit/7e67949c163f17f9574c163e
 https://github.com/harshadkhedekar/SwiftUI/commit/87f810de05a2f34602a53efc6d549d8a61f0a418 - Harshad Khedekar
 https://github.com/Supratik92/SwiftUIStarter/commit/c1380d4d8723b8df52ea67ede7f4d18340426799 - Supratik Banerjee
 https://github.com/divyajain90/100DaysOfSwiftUI/commit/1d308679586207c6850957fdc1870d7fc2a7a3ef - Divya Jain
-https://github.com/prik007/100DaysOfSwiftUI/commit/ffa9fc05613be6e034c3fe7ab88cad10225b5821- Pritha
+https://github.com/prik007/100DaysOfSwiftUI/commit/ffa9fc05613be6e034c3fe7ab88cad10225b5821 - Pritha
 https://github.com/rajatdev/100DaysOfSwiftUI/commit/7089d09a61a823b0b1bed75d36e2cf62c3e572bc - Rajat Agarwal
 https://github.com/karan1318/100DaysofSwiftUI/commit/fa588e3a53543f43cb48018cccd833ff08882916 - Karan Bhasin
 
