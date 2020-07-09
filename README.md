@@ -43,4 +43,5 @@ https://github.com/NilaakashSingh/SwiftUIStarter/commit/9d6deb975653cb99cfa549f5
 https://github.com/KhamkhaDeveloper/100DaysOfSwiftUI/commit/bf1369073a65d44e0d49b90ba33b81219f7d258b - Deepak Carpenter
 https://github.com/ChinmayDB/SwiftUI/commit/eadb829b80e0394d315060c83689cd9b6d74f0fe - Chinmay
 https://github.com/shaharukhs/SwiftUILearning/commit/2b80bdab93d7d7018b970c1239a198b5184e2ed1 - Shahrukh Shikalgar
+https://github.com/Supratik92/SwiftUIStarter/commit/dd416492e6933da5c71b4056d32b7c8a36887322 - Supratik Banerjee
 https://github.com/Videh02/SwiftUI/blob/develop/Swift_UI/Swift_UI/ContentView.swift - Videh Khanna
