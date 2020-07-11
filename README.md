@@ -47,3 +47,4 @@ https://github.com/Videh02/SwiftUI/blob/develop/Swift_UI/Swift_UI/ContentView.sw
 https://github.com/rasika-punde/100DaysOfSwiftUI/commit/665ccd902fd6a0c232cc5ea0be20452d8c5dea77 - Rasika Punde
 https://github.com/harshadkhedekar/SwiftUI/commit/f4a40b0917d9de451d1eb105b725a3daf32ca7ec - Harshad Khedekar
 https://github.com/kaustubhbhole0808/100DaysOfSwiftUI/commit/782e2faece601ec4eb1b69529985acb0623f6996 - Kaustubh Bhole
+https://github.com/karan1318/SwiftUI/commit/09d2792ea14128df24ecbbf636e62ea38d9990eb - Karan Bhasin
